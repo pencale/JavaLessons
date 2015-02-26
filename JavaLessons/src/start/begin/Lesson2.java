@@ -6,3 +6,4 @@ public class Lesson2 {
 	System.out.println("Take your time");	
 	}
 }
+			
